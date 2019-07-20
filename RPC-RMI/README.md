@@ -1,12 +1,12 @@
-RPC-RMI in Python
+# RPC-RMI in Python
 
-Setup:
+## Setup:
 
 1 - Use Python 3.5+
 
 2 - Install the ```pycpfcnpj``` module: ```pip install pycpfcnpj```
 
-Running:
+## Running:
 
 1 - First, run ```server.py```
 
